@@ -15,13 +15,13 @@
     "method": "shell.run",
     "params": {
       "message": "cmake ..",
-      "path": "./build"
+      "path": "./llama.cpp/build"
     }
   }, {
     "method": "shell.run",
     "params": {
       "message": "cmake --build . --config Release",
-      "path": "./build"
+      "path": "./llama.cpp/build"
     }
   }]
 }
