@@ -28,7 +28,7 @@
 }, {
   "name": "Koala-7B-ggml-q5_1",
   "items": [{
-    "url": "https://huggingface.co/xzuyn/Koala-7B-ggml-q5_1/resolve/main/ggml-model-q5_1.bin"
+    "url": "https://huggingface.co/xzuyn/Koala-7B-ggml-q5_1/resolve/main/ggml-model-q5_1.bin",
     "name": "ggml-model-q5_1.bin"
   }]
 }, {
