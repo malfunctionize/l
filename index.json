@@ -23,5 +23,12 @@
       "message": "cmake --build . --config Release",
       "path": "./llama.cpp/build"
     }
+  }],
+  "gpt4all": [{
+    "method": "download",
+    "params": {
+      "url": "{{models[2].items[0].url}}",
+      "path": "./llama.cpp/models/{{models[2].name}}-{{models[2].items[0].name}}"
+    }
   }]
 }

@@ -3,5 +3,9 @@
     "name": "Install",
     "description": "Install Llama.cpp",
     "run": "install"
+  }, {
+    "name": "Gpt4all",
+    "description": "Download gpt4all model",
+    "run": "gpt4all"
   }]
 }
