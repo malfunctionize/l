@@ -9,7 +9,7 @@
     "method": "shell.run",
     "params": {
       "message": "mkdir build",
-      "path": "."
+      "path": "./llama.cpp"
     }
   }, {
     "method": "shell.run",
