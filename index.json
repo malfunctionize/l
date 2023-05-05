@@ -1,0 +1,27 @@
+{
+  "install": [{
+    "method": "shell.run",
+    "params": {
+      "message": "git clone https://github.com/ggerganov/llama.cpp",
+      "path": "."
+    }
+  }, {
+    "method": "shell.run",
+    "params": {
+      "message": "mkdir build",
+      "path": "."
+    }
+  }, {
+    "method": "shell.run",
+    "params": {
+      "message": "cmake ..",
+      "path": "./build"
+    }
+  }, {
+    "method": "shell.run",
+    "params": {
+      "message": "cmake --build . --config Release",
+      "path": "./build"
+    }
+  }]
+}
