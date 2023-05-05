@@ -7,5 +7,57 @@
     "name": "Gpt4all",
     "description": "Download gpt4all model",
     "run": "gpt4all"
+  }, {
+    "name": "pygmalion-7b-f16",
+    "run": "pygmalion-7b-f16",
+    "description": "download"
+  }, {
+    "name": "stable-vicuna-13b-q4_0",
+    "run": "stable-vicuna-13b-q4_0",
+    "description": "download"
+  }, {
+    "name": "stable-vicuna-13b-q4_2",
+    "run": "stable-vicuna-13b-q4_2",
+    "description": "download"
+  }, {
+    "name": "stable-vicuna-13b-q5_0",
+    "run": "stable-vicuna-13b-q5_0",
+    "description": "download"
+  }, {
+    "name": "stable-vicuna-13b-q5_1",
+    "run": "stable-vicuna-13b-q5_1",
+    "description": "download"
+  }, {
+    "name": "gpt4all-7b-lora",
+    "run": "gpt4all-7b-lora",
+    "description": "download"
+  }, {
+    "name": "koala-7b-q4_0",
+    "run": "koala-7b-q4_0",
+    "description": "download"
+  }, {
+    "name": "koala-7b-q4_1",
+    "run": "koala-7b-q4_1",
+    "description": "download"
+  }, {
+    "name": "koala-7b-q5_1",
+    "run": "koala-7b-q5_1",
+    "description": "download"
+  }, {
+    "name": "openllama-7b",
+    "run": "openllama-7b",
+    "description": "download"
+  }, {
+    "name": "wizardlm-7b-q4_0",
+    "run": "wizardlm-7b-q4_0",
+    "description": "download"
+  }, {
+    "name": "wizardlm-7b-q4_2",
+    "run": "wizardlm-7b-q4_2",
+    "description": "download"
+  }, {
+    "name": "wizardlm-7b-q5_1",
+    "run": "wizardlm-7b-q5_1",
+    "description": "download"
   }]
 }
