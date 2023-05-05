@@ -1,0 +1,7 @@
+{
+  "runnable": [{
+    "name": "Install",
+    "description": "Install Llama.cpp",
+    "run": "install"
+  }]
+}
